@@ -1,4 +1,4 @@
-# ThreatLens AI · Team Nova
+# ThreatLens AI · Team NGB
 
 **From Open Cyber Data to Explainable Intelligence**
 
